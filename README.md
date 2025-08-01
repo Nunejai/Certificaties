@@ -19,18 +19,19 @@
   12. [Software Development Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/verify/0VVAR9529TU7)
      
 
-# IBM Full Stack Software Developer Certification
+# IBM Full Stack JavaScript Developer Professional Certificate
 #
 # In process
-  1. Introduction to Software Engineering -**Completed**
-  2. Introduction to HTML&CSS,& JavaScript  -**Completed**
-  3. Getting Started with Git and GitHub  -**Completed**
-  4. JavaScript Programming Essentials  -**Completed**
-  5. Developing Front-End Apps with React
-  6. Developing Back-End Apps with Node.js and Express
-  7. Get Started with Cloud Native, DevOps, Agile, and NoSQL
-  8. Introduction to Container w/Docker, Kubernetes & OpenShift
-  9. Application Development using Microservices and Serverless
-  10. Node.js &MongoDB: Developing Back-end Database Applications
-  11. JavaScript Full Stack capstone Project
+  1. [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/S6MNCO1TENH5)
+  2. [Designing User Interfaces and Experiences (UI/UX)](https://www.coursera.org/account/accomplishments/verify/37ZC1CVU1YR2)
+  3. [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/YK4ZPN1GQ8E8)
+  4. [JavaScript Programming Essentials](https://www.coursera.org/account/accomplishments/verify/ZJ3GDQSHIZ2B)
+      - [Final project] [GitHub](https://github.com/Nunejai/TripSuggest) [Live](https://nunejai.github.io/TripSuggest/)
+  6. Developing Front-End Apps with React
+  7. Developing Back-End Apps with Node.js and Express
+  8. Get Started with Cloud Native, DevOps, Agile, and NoSQL
+  9. Introduction to Container with w/Docker, Kubernetes & OpenShift
+  10. Application Development using Microservices and Serverless
+  11. Node.js &MongoDB: Developing Back-end Database Applications
+  12. JavaScript Full Stack capstone Project
 
