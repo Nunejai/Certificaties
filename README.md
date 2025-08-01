@@ -10,7 +10,7 @@
   5. [Developing Websites and Front-Ends with Bootstrap](https://www.coursera.org/account/accomplishments/verify/XY1WWZP7RX2M)
   6. [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/YK4ZPN1GQ8E8)
   7. [Developing Front-End Apps with React](https://www.coursera.org/account/accomplishments/verify/Z89URDJ6F7AE)
-     [Final project] [GitHub](https://github.com/Nunejai/e-plantShopping) [Live](https://nunejai.github.io/e-plantShopping/)
+     #[Final project] [GitHub](https://github.com/Nunejai/e-plantShopping) [Live](https://nunejai.github.io/e-plantShopping/)
   9. [Intermediate Web and Front-End Development]
   10. [Get Started with Cloud Native, DevOps, Agile, and NoSQL]
   11. [Front-End Development Capstone Project]
