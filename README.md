@@ -7,7 +7,7 @@
   2. [Introduction to Software Engineering](https://www.coursera.org/account/accomplishments/verify/S6MNCO1TENH5)
   3. [Designing User Interfaces and Experiences (UI/UX)](https://www.coursera.org/account/accomplishments/verify/37ZC1CVU1YR2)
   4. [Introduction to HTML & CSS,& JavaScript](https://www.coursera.org/account/accomplishments/verify/IAWKCX1GULRA)
-     -Final project [GitHub](https://github.com/Nunejai/SinglePageWebsite) [Live](https://nunejai.github.io/SinglePageWebsite/)
+     - [Final project] [GitHub](https://github.com/Nunejai/SinglePageWebsite) [Live](https://nunejai.github.io/SinglePageWebsite/)
   6. [Developing Websites and Front-Ends with Bootstrap](https://www.coursera.org/account/accomplishments/verify/XY1WWZP7RX2M)
      - [Final project] [GitHub](https://github.com/Nunejai/themarbletable) [Live](https://nunejai.github.io/themarbletable/)
   7. [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/verify/YK4ZPN1GQ8E8)
